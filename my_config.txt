@@ -1,0 +1,4 @@
+task = twitter-search
+count = 200
+query = leadership
+output= mydata.json
